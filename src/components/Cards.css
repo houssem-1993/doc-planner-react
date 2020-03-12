@@ -1,0 +1,103 @@
+
+
+.services-card{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+/* 
+.blue{
+    background-color: #00ccb1;
+    border-radius: 10px;
+    height: 369.750px;
+    width: 470px;
+    color: white;
+    overflow: hidden;
+    margin: 20px;
+    padding:22 40 0 40;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    position: relative;
+}
+
+.green{
+    background-color: #3d83df;
+    border-radius: 10px;
+    height: 369.750px;
+    width: 470px;
+    color: white;
+    overflow: hidden;
+    margin: 20px;
+    padding:22 40 0 40 ;
+    font-size: 20px;
+    position: relative;
+}
+.image{
+    height: 200px;
+    width: 300px;
+    position: relative;
+
+}
+*/
+.selection{
+     background-color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    font-weight: bold;
+
+} 
+
+.patients-card{
+    background-color: #00ccb1;
+    border-radius: 10px;
+    height: 369.750px;
+    width: 470px;
+    color: white;
+    overflow: hidden;
+    margin-right: 10px;
+    padding:22 40 0 40;
+}
+.doctor-card{
+    background-color: #3d83df;
+    border-radius: 10px;
+    height: 369.750px;
+    width: 470px;
+    color: white;
+    overflow: hidden;
+    margin-left: 10px;
+    padding:22 40 0 40 ;
+
+}
+
+.service-pic{
+    height: 620.500;
+    width: 348.750px;
+    max-width: 100%;
+    margin-left: 250px;
+    margin-top: -130px;
+}
+.service-pic2{
+    height: 620.500;
+    width: 348.750px;
+    max-width: 100%;
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+.services-card  h5{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+}
+.services-card  p{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}

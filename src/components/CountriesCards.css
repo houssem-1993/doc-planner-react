@@ -1,0 +1,107 @@
+/* .Cntr{
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+    margin: 0 100px;
+    
+}
+.Cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius:20px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    background-color: whitesmoke;
+    
+}
+
+
+.btn{
+    background-color:#3d83df;
+    border-radius: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px 7px 7px 7px;
+    height: 35px;
+    width: 90px;
+    font-size: 10px;
+    font-weight: 700;
+    left:15px;
+   
+}
+    
+    
+
+
+.card:hover{
+    cursor: pointer;
+    box-shadow: gray 1px 1px 1px 1px;
+}
+.name-btn{
+    display: flex;
+    justify-content: space-around;
+}
+.coutriesHead{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 50px;
+}
+.coutriesHead h1{
+    color:#00ccb1 ;
+    text-align: center;
+}
+.coutriesHead p{
+    color: grey;
+    text-align: center;
+} */
+.country-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:50px 150px;
+    
+    
+}
+.Card{
+    background-color: whitesmoke;
+    width: 311.625px;
+    height: 350.188px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 10px 10px;
+    border-radius:20px;
+    padding-bottom: 30px;
+}
+.Card:hover{
+    cursor: pointer;
+    box-shadow: gray 1px 1px 1px 1px;
+}
+.img{
+    border-radius: 5px;
+}
+.bouton{
+    background-color:#3d83df;
+    border-radius: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px 7px 7px 7px;
+    height: 35px;
+    width: 90px;
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 80px;    
+}
+.bouton:hover{
+    cursor: pointer;
+}
+.name-btn{
+    display: flex;
+    align-items: baseline;
+    
+}

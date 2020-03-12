@@ -1,0 +1,22 @@
+.brand-section {
+  display: flex;
+  justify-content: flex-start;
+  width: 980px;
+  font-size: 25px;
+  margin-left: 250px;
+}
+.brand-section h4 {
+  color: #00b39b;
+  width: 214px;
+}
+.brand-logos {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+.brand-logos svg {
+  fill: #ababab;
+}
+.brand-logos svg:hover {
+  fill: #00ccb1;
+}
